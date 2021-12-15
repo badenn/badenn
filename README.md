@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 [![Beyza's github stats](https://github-readme-stats.vercel.app/api?username=badenn)](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
+<!--
 [![Snake animation](./snake)](./snake)
 
 [![wakatime](https://wakatime.com/badge/github/badenn/snake)](https://wakatime.com/badge/github/badenn/badenn)
