@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<a href="https://media.giphy.com/media/XUojAIMYIIOQ9tpx2s/giphy.gif"><img src="https://media.giphy.com/media/XUojAIMYIIOQ9tpx2s/giphy.gif" title="giphy"/></a>
+
 <!--
 **badenn/badenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,3 +29,4 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/share/@fd3a753e-e2f4-4972-8c7b-7ca508217c61/bddc273c-509b-4793-a7b3-d87c74084117.svg)](https://github.com/badenn)
 
 [![wakatime](https://wakatime.com/share/@fd3a753e-e2f4-4972-8c7b-7ca508217c61/d8b82a29-c677-4cdc-9091-67d8908f6579.svg)](https://github.com/badenn)
+
